@@ -1,8 +1,8 @@
 package com.hilbing.tmdbclient.data.api
 
-import com.hilbing.tmdbclient.data.ArtistList
-import com.hilbing.tmdbclient.data.MovieList
-import com.hilbing.tmdbclient.data.TVShowList
+import com.hilbing.tmdbclient.data.model.artist.ArtistList
+import com.hilbing.tmdbclient.data.model.movie.MovieList
+import com.hilbing.tmdbclient.data.model.tvshow.TVShowList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

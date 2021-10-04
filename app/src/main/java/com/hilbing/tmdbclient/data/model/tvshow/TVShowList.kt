@@ -1,4 +1,4 @@
-package com.hilbing.tmdbclient.data
+package com.hilbing.tmdbclient.data.model.tvshow
 
 
 import com.google.gson.annotations.SerializedName
@@ -6,6 +6,5 @@ import com.google.gson.annotations.SerializedName
 data class TVShowList(
 
     @SerializedName("results")
-    val TVShows: List<TVShow>,
-
-)
+    val TVShows: List<TVShow>
+    )
