@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/activity_movie.xml" value="0.30344202898550726" />
         <entry key="app/src/main/res/layout/activity_tvshow.xml" value="0.2703125" />
         <entry key="app/src/main/res/layout/artist_fragment.xml" value="0.2546875" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.2703125" />
         <entry key="app/src/main/res/layout/movie_fragment.xml" value="0.2546875" />
         <entry key="app/src/main/res/layout/t_v_show_fragment.xml" value="0.2703125" />
       </map>
